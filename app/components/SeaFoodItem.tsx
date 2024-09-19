@@ -3,6 +3,7 @@ import React from 'react'
 
 const SeaFoodItem = (props) => {
 
+    
     const imageUrl = 'https://reactnative.dev/img/tiny_logo.png'
     const title = "Image Title"
     return (
